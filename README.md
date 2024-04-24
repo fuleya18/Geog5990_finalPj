@@ -1,1 +1,1 @@
-# Geog5990_finalPj
+A documentation of all what my visualizations are about
